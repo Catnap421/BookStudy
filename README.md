@@ -14,3 +14,9 @@
 5. 실행 아라운드 패턴이란?
 6. 람다는 자유 변수에 접근이 가능하며, 이를 람다 캡처링이라고 한다. 이 때, 해당 자유 변수는 final로 취급되어야 하는데, 그러한 이유는 무엇인가?
 [람다 면접 - 6번](https://jeong-pro.tistory.com/211)
+   
+## 4. 스트림
+1. Stream과 Collection의 차이에 대해 설명하시오.
+2. lazy evaluation(지연 연산)이란?
+3. short circuit evaluation이란?
+
