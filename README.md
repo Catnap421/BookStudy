@@ -16,7 +16,7 @@
 [람다 면접 - 6번](https://jeong-pro.tistory.com/211)
    
 ## 4. 스트림
-1. Stream과 Collection의 차이에 대해 설명하시오.
-2. lazy evaluation(지연 연산)이란?
-3. short circuit evaluation이란?
+1. Stream과 Collection의 차이에 대해 설명하시오.[🔍](https://github.com/Catnap421/BookStudy/blob/master/md/ch04.md#1-stream%EA%B3%BC-collection)
+2. lazy evaluation(지연 연산)이란?[🔍](https://github.com/Catnap421/BookStudy/blob/master/md/ch04.md#2-lazy-evaluation%EC%A7%80%EC%97%B0-%EC%97%B0%EC%82%B0%EC%9D%B4%EB%9E%80)
+3. short circuit evaluation이란?[🔍](https://github.com/Catnap421/BookStudy/blob/master/md/ch04.md#3-short-circuit-evaluation%EC%9D%B4%EB%9E%80)
 
